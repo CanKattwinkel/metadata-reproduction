@@ -22,7 +22,8 @@
             "tsConfig": "apps/server/tsconfig.app.json",
             "assets": [
               "apps/server/src/assets"
-            ]
+            ],
+            "webpackConfig": "apps/server/webpackConfig.js"
           },
           "configurations": {
             "production": {
